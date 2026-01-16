@@ -1,5 +1,9 @@
 # 📈 AI Stock Price Prediction System (LSTM + GRU + ARIMA)
 
+## 🌐 Live Demo
+👉 https://ai-stock-prediction-kumkum.streamlit.app
+
+
 This project is an end-to-end AI-based stock price forecasting system that predicts future prices, direction probability, and confidence intervals using deep learning and statistical models.
 
 ## 🚀 Features
