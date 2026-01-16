@@ -60,6 +60,16 @@ Given historical stock prices and technical indicators, predict:
 - Statsmodels
 - Streamlit
 - yFinance
+## 📸 Application Screenshots
+
+### 🔹 User Interface
+![UI](screenshots/ui.png)
+
+### 🔹 30-Day Forecast with Confidence Band
+![Forecast](screenshots/forecast.png)
+
+### 🔹 Up/Down Probability Output
+![Probability](screenshots/probability.png)
 
 ## 🧑‍💻 Author
 Kumkum Solanki  
